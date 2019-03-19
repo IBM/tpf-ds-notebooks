@@ -1,6 +1,6 @@
 name: tpf-ds-notebooks
 dependencies:
-  - python
+  - python=3.7.1
   - numpy
   - matplotlib
   - pandas
