@@ -1,0 +1,8 @@
+name: tpf-ds-notebooks
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - sklearn
