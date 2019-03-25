@@ -1,11 +1,13 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IBM/tpf-ds-notebooks/initial-notebook?urlpath=lab/tree/intro_cdc_nvpc_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IBM/tpf-ds-notebooks/master?urlpath=lab/tree/intro_cdc_nvpc_analysis.ipynb)
 
 # TPF Data Science Notebooks
 
-A suite of sample Jupyter notebooks demonstrating and documenting how to obtain operational and business insights with collected z/TPF system metrics using data science
+These Jupyter notebooks explore the capability and value of utilizing data science to extract valuable insights on a z/TPF system. They provide an interactive educational platform by containing a mixture of embedded documentation and executable Python code that can be run on a Jupyter Notebook environment. Common open-source libraries are used to show that collected z/TPF system metrics do not need to be treated any differently than other data sources.
+
+For a quick and hassle-free demo of the notebooks, a convenient "launch binder" button is located above to create a [Docker](https://www.docker.com/) image with all of the necessary software components and start up a temporary Jupyter Notebook session with the files in this GitHub repository.
 
 ## Dependencies
-**Required**
+
 A [Jupyter Notebook](https://jupyter.org/) environment containing the following Python libraries:
 * Python (v3.5 or later)
 * NumPy (v1.9 or later)
@@ -13,7 +15,7 @@ A [Jupyter Notebook](https://jupyter.org/) environment containing the following 
 * pandas (v0.24 or later)
 * Seaborn (v0.9 or later)
 
-The [Anaconda Python distribution (v2018.12 or later)](https://www.anaconda.com/distribution/) is recommended for easier installation and maintenance of the required Python libraries.
+The [Anaconda Python distribution (v2018.12 or later)](https://www.anaconda.com/distribution/) is recommended for a bundled installation of Jupyter Notebook and the required Python libraries.
 
 ## License
 
