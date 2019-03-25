@@ -6,16 +6,14 @@ A suite of sample Jupyter notebooks demonstrating and documenting how to obtain 
 
 ## Dependencies
 **Required**
-* Jupyter Notebook
-* Python (v3.5+)
-* NumPy (v1.9+)
-* Matplotlib (v3.0+)
-* pandas (v0.24+)
-* Seaborn (v0.9+)
+A [Jupyter Notebook](https://jupyter.org/) environment containing the following Python libraries:
+* Python (v3.5 or later)
+* NumPy (v1.9 or later)
+* Matplotlib (v3.0 or later)
+* pandas (v0.24 or later)
+* Seaborn (v0.9 or later)
 
-**Optional**
-Anaconda Python Distribution 
-JupyterLab
+The [Anaconda Python distribution (v2018.12 or later)](https://www.anaconda.com/distribution/) is recommended for easier installation and maintenance of the required Python libraries.
 
 ## License
 
