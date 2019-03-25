@@ -8,7 +8,7 @@ For a quick and hassle-free demo of the notebooks, a convenient "launch binder" 
 
 ## Dependencies
 
-A [Jupyter Notebook](https://jupyter.org/) environment containing the following Python libraries:
+A [Jupyter Notebook](https://jupyter.org/) environment containing the following libraries:
 * Python (v3.5 or later)
 * NumPy (v1.9 or later)
 * Matplotlib (v3.0 or later)
