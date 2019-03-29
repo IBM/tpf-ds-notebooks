@@ -2,13 +2,13 @@
 
 # TPF Data Science Notebooks
 
-These Jupyter notebooks explore the capability and value of utilizing data science to extract valuable insights on a z/TPF system. They provide an interactive educational platform by containing a mixture of embedded documentation and executable Python code that can be run on a Jupyter Notebook environment. Common open-source libraries are used to show that collected z/TPF system metrics do not need to be treated any differently than other data sources.
+With these Jupyter notebooks, you can explore the capability and value of using data science to discover valuable insights on a z/TPF system. They provide an interactive educational platform by containing a mixture of embedded documentation and executable Python code that can be run on a Jupyter Notebook environment. Common open-source libraries are used to show that collected z/TPF system metrics can be treated the same as other data sources in your enterprise environment.
 
-For a quick and hassle-free demo of the notebooks, a convenient "launch binder" button is located above to create a [Docker](https://www.docker.com/) image with all of the necessary software components and start up a temporary Jupyter Notebook session with the files in this GitHub repository.
+For a quick and hassle-free demo of the notebooks, click the "launch binder" button (above) to create a [Docker](https://www.docker.com/) image with all of the necessary software components and start up a temporary Jupyter Notebook session with the files in this GitHub repository.
 
 ## Dependencies
 
-A [Jupyter Notebook](https://jupyter.org/) environment containing the following libraries:
+A [Jupyter Notebook](https://jupyter.org/) environment that contains the following libraries:
 * Python (v3.5 or later)
 * NumPy (v1.9 or later)
 * Matplotlib (v3.0 or later)
